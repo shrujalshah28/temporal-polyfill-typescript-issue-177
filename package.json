@@ -1,0 +1,30 @@
+{
+  "name": "temporal-polyfill-typescript-issue-177",
+  "version": "1.0.0",
+  "description": "Repository to debug temporal-polyfill Typescript Issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrujalshah28/temporal-polyfill-typescript-issue-177.git"
+  },
+  "keywords": [
+    "temporal-polyfill",
+    "typescript"
+  ],
+  "author": "Shrujal Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shrujalshah28/temporal-polyfill-typescript-issue-177/issues"
+  },
+  "homepage": "https://github.com/shrujalshah28/temporal-polyfill-typescript-issue-177#readme",
+  "dependencies": {
+    "@js-temporal/polyfill": "^0.4.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
